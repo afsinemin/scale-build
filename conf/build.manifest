@@ -614,7 +614,7 @@ sources:
   repo: https://github.com/truenas/py-nvme
   branch: stable/goldeye
 - name: truenas
-  repo: https://github.com/truenas/middleware
+  repo: https://github.com/afsinemin/middleware
   branch: stable/goldeye
   subdir: debian
   subpackages:
