@@ -582,7 +582,7 @@ sources:
   repo: https://github.com/truenas/python-truenas-requirements
   branch: stable/goldeye
 - name: licenselib
-  repo: https://github.com/truenas/licenselib
+  repo: https://github.com/afsinemin/licenselib
   branch: stable/goldeye
 - name: zectl
   repo: https://github.com/truenas/zectl
