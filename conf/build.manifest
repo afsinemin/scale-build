@@ -489,7 +489,7 @@ sources:
     - truenas_samba
     - truenas_sssd
 - name: truenas_spdk
-  repo: https://github.com/afsinemin/truenas_spdk
+  repo: https://github.com/truenas/truenas_spdk
   branch: stable/goldeye
   generate_version: false
   predepscmd:
