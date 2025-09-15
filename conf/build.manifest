@@ -562,7 +562,7 @@ sources:
   repo: https://github.com/truenas/binaries
   branch: stable/goldeye
 - name: truenas_webui
-  repo: https://github.com/truenas/webui
+  repo: https://github.com/afsinemin/webui
   predepscmd:
     - "apt -y install wget && apt -y install yarn --no-install-recommends"  # yarn recommends nodejs, which we don't want
   prebuildcmd:
